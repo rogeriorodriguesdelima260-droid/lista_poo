@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\bin\Debug\lista_poo7.exe.config
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\bin\Debug\lista_poo7.exe
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\bin\Debug\lista_poo7.pdb
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\obj\Debug\lista_poo7.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\obj\Debug\lista_poo7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\obj\Debug\lista_poo7.exe
+C:\Users\aluno\source\repos\lista_poo7\lista_poo7\obj\Debug\lista_poo7.pdb
